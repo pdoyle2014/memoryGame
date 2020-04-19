@@ -1,0 +1,49 @@
+body{
+  text-align: center;
+  height:100vh;
+
+
+  background-image: url(https://www.ncl.com/sites/default/files/881-African-Safari-Seychelles-DAWN21DBXABUPVINOSLUIPDGRICLIZMOSCPT_0.jpg);
+  background-position: center;
+  background-size: cover;
+  width:100%;
+}
+
+h1{
+  /* position: relative;
+  top: 20px; */
+  font-family: 'Special Elite', cursive;
+  font-size: 3rem;
+}
+
+img{
+  height:90%;
+  width: 80%;
+  border: solid;
+}
+
+.active{
+  background-color: orange;
+}
+
+
+.col-3{
+  height: 7rem;
+  width: 6%;
+}
+
+.container{
+  padding-top: 3%;
+}
+
+.container-fluid, .game-board{
+  padding: 2% 20%;
+}
+
+
+.playerScore{
+  border: solid;
+  background-color: #faebd7;
+  margin: 0 15%;
+  opacity: 0.8;
+}
